@@ -1,0 +1,7 @@
+name: BetterPermsPrefixChat
+version: 1.0
+api-version: 1.18
+author: LUPU
+main: dev.lupluv.prefixchat.Main
+
+commands:
